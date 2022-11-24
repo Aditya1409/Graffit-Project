@@ -1,20 +1,10 @@
 /**
- * CSC A48 - Intro to Computer Science II, Summer 2021
- * 
- * Assignment 3 - Graffit
+ * Graffit
  * 
  * Graphs &
  * Recursion
- * Assignment
- * For
- * Freshmen
- * In
- * Toronto
- *
- * (I am so proud of that initialism.)
  * 
- * This is the program file where you will implement your solution for
- * Assignment 3. Please make sure you read through this file carefully
+ * This is the program file where you will implement your solution. Please make sure you read through this file carefully
  * and that you understand what is provided and what you need to complete.
  * 
  * You will also need to have read the handout carefully. 
